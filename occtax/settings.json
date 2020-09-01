@@ -5,28 +5,23 @@
     "show_compass": true,
     "max_bounds": [
       [
-        47.253369,
-        -1.605721
+        50.169193,
+        3.383307
       ],
       [
-        47.173845,
-        -1.482811
+        47.420223
+        8.233340
       ]
     ],
     "center": [
-      47.225827,
-      -1.554470
+      48.3225,
+      4.4051
     ],
     "start_zoom": 10.0,
     "min_zoom": 8.0,
     "max_zoom": 19.0,
     "min_zoom_editing": 12.0,
-    "layers": [
-      {
-        "label": "Nantes",
-        "source": "nantes.mbtiles"
-      }
-    ]
+    "layers": []
   },
   "no_such_property": "no_such_value"
 }

@@ -21,7 +21,12 @@
     "min_zoom": 8.0,
     "max_zoom": 15.0,
     "min_zoom_editing": 12.0,
-    "layers": []
+    "layers": [
+      {
+        "label": "PnrFO",
+        "source": "pnrfo.mbtiles"
+      }
+    ]
   },
   "no_such_property": "no_such_value"
 }
